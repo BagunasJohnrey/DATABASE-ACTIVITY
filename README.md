@@ -124,7 +124,7 @@ You can now use this database to manage the products in the store, including che
   SELECT * FROM products WHERE productExpiry = 1;
   ```
 
-- **Get products by category (e.g., Snacks)**:
+- **Get products by type (e.g., Snacks)**:
   ```sql
   SELECT * FROM products WHERE productType = 'Snack';
   ```
