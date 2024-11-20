@@ -41,3 +41,5 @@ INSERT INTO products (productID, productName, productType, productPrice, product
 (23, 'Patatas', 'Snack', 10, 120, 0),
 (24, 'Stick-O', 'Snack', 25, 150, 1),
 (25, 'Chuckie', 'Beverage', 25, 150, 0);
+
+select * from products;
